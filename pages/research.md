@@ -4,17 +4,9 @@ permalink: "/research"
 layout: page
 ---
 
+## Check out this affiliated center!
 
-## Check out this research program!
+The [Feinstein Center](http://www.cla.temple.edu/feinsteincenter/) is dedicated to encouraging scholars and students to devote themselves to the study of the American Jewish Experience.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-https://temple.edu
-
----
-
-## Check out this research program!
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-https://temple.edu
+Dr. Lila Corwin Berman
+Murray Friedman Professor, Director, Feinstein Center
