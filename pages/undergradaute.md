@@ -8,7 +8,7 @@ layout: page
 
 CULTURAL PROGRAMS AT TEMPLE AND BEYOND
 
-The Jewish Studies program sponsors Jewish cultural events at Temple not only for our students but for the broader Philadelphia community, especially through the work of the Feinstein Center for American Jewish History.
+The Jewish Studies program sponsors Jewish cultural events at Temple not only for our students but for the broader Philadelphia community, especially through the work of the [Feinstein Center for American Jewish History](http://www.cla.temple.edu/feinsteincenter/). 
 
 STUDY ABROAD/SUMMER STUDY
 
@@ -24,4 +24,4 @@ The Certificate in Jewish Secular Studies was introduced in 2006 and is the firs
 
 PLAN OF STUDY
 
-For the Certificate, students need to complete at least one of the core courses, Jewish Secularism/Jewish Civilization I and II. These courses introduce students to the history of Jewish secular traditions and to the history of the concept of secular space and secular political traditions in Western Society. In addition, students take either 3 of 4 electives, drawn from the Jewish Studies offerings. These electives may include an internship in local Jewish organizations, and an internship elective may be completed during Summer semester. The [Temple Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/) lists the specific offerings of the Certificate.
+For the Certificate, students need to complete at least one of the core courses, Jewish Secularism/Jewish Civilization I and II. These courses introduce students to the history of Jewish secular traditions and to the history of the concept of secular space and secular political traditions in Western Society. In addition, students take either 3 of 4 electives, drawn from the Jewish Studies offerings. These electives may include an internship in local Jewish organizations, and an internship elective may be completed during Summer semester. The [Temple Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/) lists the specific offerings of the Certificate. 
