@@ -2,9 +2,9 @@
 # Program/Department Title
 title: Jewish Studies
 # Site URL (without /)
-url: https://liberalarts.temple.edu
+url: ""
 # Subdirectory (with / at only at beginning)
-baseurl: /jewishstudies
+baseurl: /jewish-studies
 
 # Program Information
 # Short tagline for tweets (<100 characters)
