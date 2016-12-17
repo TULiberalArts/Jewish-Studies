@@ -12,9 +12,11 @@ install:
 - bundle install
 script:
 - bundle exec jekyll build
-- timeout 120s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only --only-4xx --http-status-ignore 429
+- timeout 120s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href
+  --external_only --only-4xx --http-status-ignore 429
 after_success: s3_website push
 notifications:
   slack:
-    secure: Wk3wMgG9nvgXc2oiuFH2VmVnWeaZiw08Q4L0h1zycxY96BRo+kOWtQUT8pGdS/rqZVE/XbK/ysgh83MDsDxUq0pmwvrO2xbOUJK4U9HZ31ZMuVeYuKjK9nCvfTeSO2AjnuDYZS0koDVHI2hEPtqLF0SE/+9p7PmqVZQORaCOhQba6H2yfKc1JHatLXRD2TPQJUllSgTAsektWbuZUjVlhs8145NoeFcbZMTRmCInNDc/xI4Dxlahzc86UE5oLnqC786wx5lnVI4qC3YZLbv8iArNcwLw4fIeXCZB1EaeBkj/ELmr8U/CbYj05KJWYG1lMe3muchH00iuYc1grQhwUZIm98c438W9UgDFnAof6e4Mbj2mbHNwD71mLBeyqOY2nqoMeAAhnhZWv7uVVbcfWrZ1mSlNc7v3cGTDmoHZ8HNn8VuebJ0KSkEax4aSSL2H30QavvOAP1nzK3qEyyxuDmLumbW33q7GzDr02D6a7jE6pHZQZWey6RfZJScsmCNiwr3em/GqiXWAuSJqXHWOhjE7XEpel1guJXI7cklCrvrR4ID+J8uMVAYekkE6EZYCpmjShflaLXg+ZdDhd89Y3evw/j3Vqoprmv7Nm6UL+nwfjMwwGdIKsxRGkQDpt+sKiPLDumaB9nM3Ba3CamIAqUoIZuXnHbuL0HdcOsP8Jug=
-
+    rooms:
+      - secure: FvnnNeiYHPUqSKkq3vDHGfKxrx9zPETeQdiYWqiAl687OwVEspHfhiZJayirvlw0Xp0ZJ5iisEU1+zsvC4CBqgt6i9JP1VHiKMeAM+eVR0ZIgSRfFhO/YA8C0US/2VkIME1CmY4BTli/MnQfYZczia0jXVNuYpLTP9ouCfVoP1Y7dWhtq55CVwbrSqxUMgOc6pU3BgUQaM78pb40GTpdds1lovFAFIUPc64sN8dUIgIeYdVmCm7ooTARp1uBpoinxmYSaAq+mnXe6qHJPQaZ55t3BhiCo/0jDDD79yaNyT0guFMIKkzWQH6WlIJ7k04Ix8eP91YUEJu4MULq+maZIIRUmX7NDWmJsDg5Lylcb4CPZvmu9WYJ8v9leacf2qTPZXX3yIm/dDq8klxUb+kGmefpo3t7/eoRpXbQhOwv72b++6EIGXZ7EHgEDBRpG6KeL3dsKzCs0Zky2pd+ofssDew2fAMjh0epngrLtc7N+wqwCr1gdF7WGlvXCWJDuJMVbz7rP31dPlK9b2N82CgEAa6vOpve+CMTULLjp3ev82hfRd/IjHfAeHJfeGLI4TK7UWeQ+aj8Kj8I4YKretFYTPSget/m8p+HEpQhMSD/XRsIA45XMVgQbMWkDbRZ4u7K/GW73B0UmI3QaAinKAuAkVyRUW2BBw59tqatNs6byIQ=
+    on_success: always
