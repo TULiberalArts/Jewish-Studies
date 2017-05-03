@@ -8,7 +8,7 @@ baseurl: /jewish-studies
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Jewish Studies is an interdisciplinary field that allows students to sample courses across the liberal arts curriculum at Temple University. Central to Jewish Studies is an examination of the history, culture, beliefs, customs, practices, texts, and languages of the Jewish people.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 6th Floor
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: jewish-studies@temple.edu
-  phone: 2152040472
+  email: <a href="mailto:jewish-studies@temple.edu">jewish-studies@temple.edu</a>
+  phone: 215-204-0472
 
 # Social Media
 # Put in only the username unless otherwise noted
