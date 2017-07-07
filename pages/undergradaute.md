@@ -6,22 +6,18 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
-
-  <hr>
-
-  **Director:** <br/>
-  Dr. Mark Leuchter<br/>
-  650 Anderson Hall<br/>
-  [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)<br/>
-  
-  <hr>
-
-  **Administrator:** <br/>
-  Maggie Cogswell<br/>
-  1008A Gladfelter Hall<br/>
-  [(215) 204-9209](tel:2152049209)<br/>
-  [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)<br/>
+  **Director:**  
+   Dr. Mark Leuchter  
+   650 Anderson Hall    
+   [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Maggie Cogswell  
+   1008A Gladfelter Hall  
+   [(215) 204-9209](tel:2152049209)  
+   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
 ---
 
 ## Programs
