@@ -26,7 +26,7 @@ sidebar-content: |
 
 The Jewish Studies program sponsors Jewish cultural events at Temple not only for our students but for the broader Philadelphia community, especially through the work of the [Feinstein Center for American Jewish History](http://www.cla.temple.edu/feinsteincenter/). 
 
-When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
 
