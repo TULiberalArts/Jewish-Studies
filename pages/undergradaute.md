@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
 meta-keywords: 3 or 4 unique for this page
-permalink: "/undergraduate/"
+permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Director:**  
    Dr. Mark Leuchter  
    650 Anderson Hall    
@@ -17,7 +17,7 @@ sidebar-content: > #
    Maggie Cogswell  
    1008A Gladfelter Hall  
    [(215) 204-9209](tel:2152049209)  
-   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)  
+   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
 ---
 
 ## Programs
@@ -25,6 +25,8 @@ sidebar-content: > #
 ## Cultural Programs At Temple And Beyond
 
 The Jewish Studies program sponsors Jewish cultural events at Temple not only for our students but for the broader Philadelphia community, especially through the work of the [Feinstein Center for American Jewish History](http://www.cla.temple.edu/feinsteincenter/). 
+
+When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
 
 ## Academic Offerings
 
@@ -46,4 +48,4 @@ The Certificate in Jewish Secular Studies was introduced in 2006 and is the firs
 
 ## Plan Of Study
 
-For the Certificate, students need to complete at least one of the core courses, Jewish Secularism/Jewish Civilization I and II. These courses introduce students to the history of Jewish secular traditions and to the history of the concept of secular space and secular political traditions in Western Society. In addition, students take either 3 of 4 electives, drawn from the Jewish Studies offerings. These electives may include an internship in local Jewish organizations, and an internship elective may be completed during Summer semester. The [Temple Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/) lists the specific offerings of the Certificate. 
+For the Certificate, students need to complete at least one of the core courses, Jewish Secularism/Jewish Civilization I and II. These courses introduce students to the history of Jewish secular traditions and to the history of the concept of secular space and secular political traditions in Western Society. In addition, students take either 3 of 4 electives, drawn from the Jewish Studies offerings. These electives may include an internship in local Jewish organizations, and an internship elective may be completed during Summer semester. The [Temple Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/) lists the specific offerings of the Certificate.
