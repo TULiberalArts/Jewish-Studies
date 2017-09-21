@@ -1,6 +1,5 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 description: >-
   Find scholarships for Jewish Studies majors, study abroad in Israel and learn about joining Hillel at Temple University. 
