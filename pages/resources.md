@@ -3,9 +3,9 @@ title: Resources
 permalink: /resources/
 description: >-
   Find scholarships for Jewish Studies majors, study abroad in Israel and learn about joining Hillel at Temple University. 
-keywords: 'Jewish Studies scholarships, study abroad in Israel, Hillel Temple University, BA in Jewish Studies, Minor in Jewish Studies'
+keywords: 'Jewish Studies scholarships, study abroad in Israel, Hillel Temple University, BA in Jewish Studies'
 layout: page
-published: false
+published: true
 ---
 ## Feinstein Center for American Jewish History
 In collaboration with institutions in Philadelphia and beyond, the Feinstein Center invites the public to join conversations about Jewish culture, politics, history and identity across time and space. Located at the College of Liberal Arts at Temple University, the center offers fellowships for predoctoral and postdoctoral Jewish Studies scholars and holds events relating to the American Jewish experience. The Feinstein Center also publishes books and articles. 
