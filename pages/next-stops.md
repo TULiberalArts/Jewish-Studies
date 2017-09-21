@@ -1,6 +1,8 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
+description: 
+  'Get help with financial aid, study abroad and academic resources for Jewish Studies at Temple University.'
+keywords: 'Temple undergraduate students, Temple graduate students, Temple financial aid, Jewish Studies scholarships, Department of Religion, Study Abroad Programs'
 permalink: /next-stops/
 layout: page
 published: true
