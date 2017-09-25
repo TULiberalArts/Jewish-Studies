@@ -22,15 +22,18 @@ sidebar-content: |
 ## BA in Jewish Studies
 If you major in Jewish Studies, you'll explore 3,500 years of Jewish civilization under the guidance of leading scholars. From the Dead Sea Scrolls to the modern comedy of Sarah Silverman and Larry David, you'll explore the ways Judaism and Jewish people has changed the world. Our BA in Jewish Studies program provides students with a broad but rigorous liberal arts education. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career. 
 
+[Learn More about Majoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
+
 ## Minor in Jewish Studies
+If you major in another subject, minoring in Jewish Studies adds an interdisciplinary depth to your college education. Our minor in Jew Studies allows students interested in business, the sciences, engineering, government and social services to present an exceptional academic background to prospective employers. Students choose from among the full range of JWST courses in Jewish history, Bible, Talmud, rabbinics, Jewish literature, and medieval and modern Jewish studies. 
+
+[Learn More about Minoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
+
+## Certificate in Secular Jewish Studies
+Temple's Certificate in Secular Jewish Studies is open to all students interested in Jewish Studies. While many colleges and universities offer majors, minors and graduate degrees in Jewish Studies, Temple's certificate program is the first of its kind. Jewish secularism is rarely approached as an individual subject, and few institutions devote the academic rigor and resources to it that Temple University does. If you work toward the certificate, you'll take courses that introduce you to the history of Jewish secular traditions and the history of the concept of secular space and political traditions in Western society. Some students also complete an interships or externships or in local Jewish organizations. 
 
 
-
-## Certificate In Secular Jewish Studies
 The Certificate in Jewish Secular Studies was introduced in 2006 and is the first of its kind in the nation. This program highlights the secular, non-religious sphere of Jewish experience and Jews in America. It questions whether Judaism can accurately be called a religion, considers conceptual issues about the rise of Jewish secular traditions in the modern world, and raises provocative questions about the role of religion in public space. The certificate is a vibrant way in to Jewish Studies, and can be completed in five content courses, with no language requirements. This program has been designed with student interest and ease in mind. Students who are already majoring or minoring in Jewish Studies, students in other CLA majors, and students from any program or school at Temple who want to do this mini-minor on secular expressions of Jewishness, culture, politics, literature, history, art, film, philosophy are welcome.
-
-## Plan Of Study
-For the Certificate, students need to complete at least one of the core courses, Jewish Secularism/Jewish Civilization I and II. These courses introduce students to the history of Jewish secular traditions and to the history of the concept of secular space and secular political traditions in Western Society. In addition, students take either 3 of 4 electives, drawn from the Jewish Studies offerings. These electives may include an internship in local Jewish organizations, and an internship elective may be completed during Summer semester. The [Temple Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/) lists the specific offerings of the Certificate. 
 
 ## Study Abroad in Israel
 Enhance your Jewish Studies and Hebrew language programs in Israel. Not only is Israel a country with unrivaled religious, cultural and political significance, it is also the second most educated country in the world. Israel is one of the most common countries that students travel to as a part of study abroad program. In addition to Israel, Jewish Studies majors travel to almost every country for study abroad programs through Temple University's external programs and exchanges. 
@@ -47,7 +50,6 @@ The Jewish Studies Internship course engages students trough a hands-on experien
 Our award-winning advising staff helps students take full advantage of the College of Liberal Arts’ flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure they have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opportunities. 
 
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
-
 
 ## Undergraduate Admissions
 Are you ready to apply? Submit your online application at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
