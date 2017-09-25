@@ -19,11 +19,12 @@ sidebar-content: |
    [(215) 204-9209](tel:2152049209)  
    [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
 ---
+## BA in Jewish Studies
+If you major in Jewish Studies, you'll explore 3,500 years of Jewish civilization under the guidance of leading scholars. From the Dead Sea Scrolls to the modern comedy of Sarah Silverman and Larry David, you'll explore the ways Judaism and Jewish people has changed the world. Our BA in Jewish Studies program provides students with a broad but rigorous liberal arts education. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career. 
 
-## Cultural Programs At Temple And Beyond
-The Jewish Studies program sponsors Jewish cultural events at Temple not only for our students but for the broader Philadelphia community, especially through the work of the [Feinstein Center for American Jewish History](http://www.cla.temple.edu/feinsteincenter/). 
+## Minor in Jewish Studies
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+
 
 ## Certificate In Secular Jewish Studies
 The Certificate in Jewish Secular Studies was introduced in 2006 and is the first of its kind in the nation. This program highlights the secular, non-religious sphere of Jewish experience and Jews in America. It questions whether Judaism can accurately be called a religion, considers conceptual issues about the rise of Jewish secular traditions in the modern world, and raises provocative questions about the role of religion in public space. The certificate is a vibrant way in to Jewish Studies, and can be completed in five content courses, with no language requirements. This program has been designed with student interest and ease in mind. Students who are already majoring or minoring in Jewish Studies, students in other CLA majors, and students from any program or school at Temple who want to do this mini-minor on secular expressions of Jewishness, culture, politics, literature, history, art, film, philosophy are welcome.
@@ -36,13 +37,18 @@ Enhance your Jewish Studies and Hebrew language programs in Israel. Not only is 
 
 [Learn More about Studying Abroad in Israel](https://studyabroad.temple.edu/programs)
 
-## Jewish Studies Internships
-The Jewish Studies Internship course engages students trough a hands-on experience with Jewish cultural, historical, communial or religious organizations in Philadelphia's vibrant Jewish community. You'll work with the Director of Jewish Studies to develop an appropriate set of readings and complete a research project based on a compelling aspect of the work of the organizations.
+## Cultural Programs At Temple And Beyond
+The Jewish Studies program sponsors Jewish cultural events at Temple not only for our students but for the broader Philadelphia community, especially through the work of the [Feinstein Center for American Jewish History](http://www.cla.temple.edu/feinsteincenter/). 
 
-### Academic Advising and Professional Development
+## Jewish Studies Internships
+The Jewish Studies Internship course engages students trough a hands-on experience with cultural, historical or religious Jewish organizations in Philadelphia's vibrant Jewish community. You'll work with the Director of Jewish Studies to develop an appropriate set of readings and complete a research project based on your internship experience. 
+
+## Academic Advising and Professional Development
 Our award-winning advising staff helps students take full advantage of the College of Liberal Arts’ flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure they have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opportunities. 
 
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings
 - [Bachelor of Arts in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
