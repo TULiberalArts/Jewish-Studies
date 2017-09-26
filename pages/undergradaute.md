@@ -32,7 +32,7 @@ If you major in another subject, minoring in Jewish Studies adds an interdiscipl
 [Learn More about Minoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
 
 ## Certificate in Secular Jewish Studies
-Over the past two decades, the number of American Jews who define themselves as secular has almost doubled. Our Certificate in Secular Jewish Studies program highlights the secular, non-religious sphere of Jewish experience and Jews in the United States. A mini-minor on expressions of Jewishness in everything from politics to the arts, you'll take courses that introduce you to the history and concept of secular space and traditions in Western culture. The certificate program is the first of its kind. Jewish secularism is rarely approached as an individual subject, and few institutions devote the academic rigor and resources to it that Temple University does.
+Over the past two decades, the number of American Jews who define themselves as secular has almost doubled. Our Certificate in Secular Jewish Studies program is the first of its kind and highlights the secular, non-religious sphere of Jewish experience. A mini-minor on expressions of Jewishness in everything from politics to the arts, you'll take courses that introduce you to the history and concept of secular space and traditions in Western culture. Jewish secularism is rarely approached as an individual subject, and few institutions devote the academic rigor and resources to it that Temple University does.
 
 [Learn More about Temple's Certificate in Secular Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/) 
 
