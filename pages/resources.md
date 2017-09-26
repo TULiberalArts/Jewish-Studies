@@ -2,16 +2,23 @@
 title: Resources
 permalink: /resources/
 description: >-
-  Find scholarships for Jewish Studies majors, study abroad in Israel and learn about joining Hillel at Temple University. 
-keywords: 'Jewish Studies scholarships, study abroad in Israel, Hillel Temple University, BA in Jewish Studies'
+  Find scholarships for Jewish Studies majors, study abroad in Israel and learn
+  about joining Hillel at Temple University. 
+keywords: >-
+  Jewish Studies scholarships, study abroad in Israel, Hillel Temple University,
+  BA in Jewish Studies
 layout: page
 published: true
 ---
 ## Feinstein Center for American Jewish History
 In collaboration with institutions in Philadelphia and beyond, the Feinstein Center invites the public to join conversations about Jewish culture, politics, history and identity across time and space. Located at the College of Liberal Arts at Temple University, the center offers fellowships for predoctoral and postdoctoral Jewish Studies scholars and holds events relating to the American Jewish experience. The Feinstein Center also publishes books and articles. 
 
+[Learn More about the Feinstein Center](http://www.cla.temple.edu/feinsteincenter/)
+
 ## Hillel at Temple University
-Helping Jewish students to create their own Jewish journeys is an everyday experience at [Hillel at Temple University](http://www.templehillel.com/). Temple University is home to more than 2,000 undergraduate and 1,500 graduate Jewish students. More than 700 students are involved in Jewish activities sponsered by Hillel at Temple University: The Edward H. Rosen Center for Jewish Life each month. This makes Hillel one of the most active student organizations on campus. The Edward H. Rosen Center for Jewish Life, a 15,000-sf state-of-the-art Hillel facility for students and alumni of Temple University features a kosher deli, warm and caring staff and wifi. 
+Helping Jewish students to create their own Jewish journeys is an everyday experience at Hillel at Temple University. Temple University is home to more than 2,000 undergraduate and 1,500 graduate Jewish students. More than 700 students are involved in Jewish activities sponsered by Hillel at Temple University: The Edward H. Rosen Center for Jewish Life each month. This makes Hillel one of the most active student organizations on campus. The Edward H. Rosen Center for Jewish Life, a 15,000-sf state-of-the-art Hillel facility for students and alumni of Temple University features a kosher deli, warm and caring staff and wifi. 
+
+[Learn More about Hillel at Temple](http://www.templehillel.com/)
 
 ## Study Abroad in Israel
 Enhance your Jewish Studies curriculum in the Jewish homeland. Not only is Israel a country with unrivaled religious, cultural and political significance, it is also the second most educated country in the world. Israel is one of the most common countries that students travel to as a part of study abroad program. Temple offers many opportunities to study abroad in Israel through external programs and exchanges. 
