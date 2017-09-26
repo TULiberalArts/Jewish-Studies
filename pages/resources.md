@@ -21,7 +21,7 @@ Helping Jewish students to create their own Jewish journeys is an everyday exper
 [Learn More about Hillel at Temple](http://www.templehillel.com/)
 
 ## Association for Jewish Studies
-The Association for Jewish Studies (AJS) was founded in 1969 by a small group of scholars seeking a forum for exploring methodological and pedagogical issues in the new field of Jewish Studies. Since its founding, the AJS has grown into the largest learned society and professional organization representing Jewish Studies scholars worldwide. As a constituent organization of the American Council of Learned Societies, the Association for Jewish Studies represents the field in the larger arena of the academic study of the humanities and social sciences in North America. Temple faculty serve on the board of directors and participate in the annual conference. 
+The Association for Jewish Studies (AJS) was founded in 1969 by a small group of scholars seeking a forum for exploring methodological and pedagogical issues in the new field of Jewish Studies. Since its founding, the AJS has grown into the largest learned society and professional organization representing Jewish Studies scholars worldwide. Temple faculty serve on the board of directors and participate in the annual conference. 
 
 [Learn More about the Association for Jewish Studies](https://www.associationforjewishstudies.org/)
 
