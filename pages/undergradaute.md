@@ -22,17 +22,17 @@ sidebar-content: |
    [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
 ---
 ## BA in Jewish Studies
-If you major in Jewish Studies, you'll explore over 3,000 years of Jewish civilization under the guidance of leading scholars. From biblical times to modern Jewish humor, Judaism and Jewish people have changed the world. Our BA in Jewish Studies program emphasizes intellectual, analytical, communication and interpersonal skills - essential for success in any career. If you join us, you will explore contemporary issues of Jewish culture, identity and practice through the topics of immigration, gender, artistic expression, politics and more. Our program is offered through the College of Liberal Arts - our major is a broad but rigorous college education in the humanities and social sciences.
+If you major in Jewish Studies, you'll explore over 3,000 years of Jewish civilization under the guidance of leading scholars. From biblical times to modern Jewish humor, Judaism and Jewish people have changed the world. Our BA in Jewish Studies program emphasizes intellectual, analytical, communication and interpersonal skills - essential for success in any career. If you join us, you will explore contemporary issues of Jewish culture, identity and practice through the topics of immigration, gender, religious practice, artistic expression, politics and more. The major in Jewish Studies is offered through the College of Liberal Arts and offers students a broad but rigorous education in the humanities and social sciences.
 
 [Learn More about Majoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
 
 ## Minor in Jewish Studies
-If you major in another subject, minoring in Jewish Studies adds an interdisciplinary depth to your college education. Our minor in Jewish Studies allows students interested in business, the sciences, engineering, government and social services to present an exceptional academic background to prospective employers. Students choose from among the full range of Jewish Studies courses in Jewish history, Bible, Talmud, rabbinics, Jewish literature, and medieval and modern Jewish studies. 
+If you major in another subject, minoring in Jewish Studies adds an interdisciplinary depth to your undergraduate education. Our minor allows students majoring in business, the sciences, engineering, government or other CLA majors to present an exceptional academic background to prospective employers and graduate schools. Whether you concentrate on the American Jewish experience, ancient Jeruslalem or the the role of women in Jewish life, you can tailor your minor to suit your interests. 
 
 [Learn More about Minoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
 
 ## Certificate in Secular Jewish Studies
-Our Certificate in Securlar Jewish Studies program highlights the secular, non-religious sphere of Jewish experience and Jews in America. Temple's Certificate in Secular Jewish Studies is open to all students interested in Jewish Studies. The program is a mini-minor on secular expressions of Jewishness in culture, politics, literature, history, art, film and philosophy. If you work toward the certificate, you'll take courses that introduce you to the history of Jewish secular traditions and the history of the concept of secular space and political traditions in Western society. 
+Our certificate program highlights the secular, non-religious sphere of Jewish experience and Jews in America. Temple's Certificate in Secular Jewish Studies is open to all Temple students. A mini-minor on expressions of Jewishness in everything from politics to the arts, you'll take courses that introduce you to the history and concept of secular space and traditions in Western culture. 
 
 [Learn More about Temple's Certificate in Secular Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/) 
 
