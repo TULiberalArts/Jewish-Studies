@@ -1,12 +1,37 @@
 ---
 title: Next Stops
-description: 
-  'Get help with financial aid, study abroad and academic resources for Jewish Studies at Temple University.'
-keywords: 'Temple undergraduate students, Temple graduate students, Temple financial aid, Jewish Studies scholarships, Department of Religion, Study Abroad Programs'
+description: >-
+  Get help with financial aid, study abroad and academic resources for Jewish
+  Studies at Temple University.
+keywords: >-
+  Temple undergraduate students, Temple graduate students, Temple financial aid,
+  Jewish Studies scholarships, Department of Religion, Study Abroad Programs
 permalink: /next-stops/
 layout: page
 published: true
 ---
+## What Can I do with a Major or Minor in Jewish Studies?
+Jewish Studies graduates are often hired by community centers, cultural and arts organizations, universities, religious centers, human services organizations and nonprofits. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, social work, health and human services and conflict resolution. Some students continue their education in doctoral programs, law school, medical school or enter Rabbinical school. With a degree in religion, the world is at your fingertips.
+
+Graduates in Jewish Studies have job titles that include
+
+- Associate Professor of Religion
+- Peace Corps Worker
+- Program Manager
+- Hospice Worker
+- Cultural community manager
+- International Development Consultant
+- Journalist
+- Interfaith Center Administrator
+- Lawyer
+- Community Organizer
+- Physician
+- Rabbi
+- Nonprofit Director
+- Rabbi
+- High School Teacher
+- Social Worker
+
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
