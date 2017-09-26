@@ -20,7 +20,7 @@ sidebar-content: |
    [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
 ---
 ## BA in Jewish Studies
-If you major in Jewish Studies, you'll explore 3,500 years of Jewish civilization under the guidance of leading scholars. From the Dead Sea Scrolls to Jewish comedians like Sarah Silverman and Larry David, you'll explore the ways Judaism and Jewish people has changed the world. Our BA in Jewish Studies program provides students with a broad but rigorous liberal arts education. The Bachelor of Arts in Jewish Studies is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career. 
+If you major in Jewish Studies, you'll explore 3,500 years of Jewish civilization under the guidance of leading scholars. From the Dead Sea Scrolls to Jewish comedians like Sarah Silverman and Larry David*, you'll explore the ways Judaism and Jewish people has changed the world. Our BA in Jewish Studies program provides students with a broad but rigorous liberal arts education. The Bachelor of Arts in Jewish Studies is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career. 
 
 [Learn More about Majoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
 
