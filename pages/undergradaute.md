@@ -20,12 +20,12 @@ sidebar-content: |
    [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
 ---
 ## BA in Jewish Studies
-If you major in Jewish Studies, you'll explore 3,500 years of Jewish civilization under the guidance of leading scholars. From the Dead Sea Scrolls to the modern comedy of Sarah Silverman and Larry David, you'll explore the ways Judaism and Jewish people has changed the world. Our BA in Jewish Studies program provides students with a broad but rigorous liberal arts education. The Bachelor of Arts in Religion is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career. 
+If you major in Jewish Studies, you'll explore 3,500 years of Jewish civilization under the guidance of leading scholars. From the Dead Sea Scrolls to Jewish comedians like Sarah Silverman and Larry David, you'll explore the ways Judaism and Jewish people has changed the world. Our BA in Jewish Studies program provides students with a broad but rigorous liberal arts education. The Bachelor of Arts in Jewish Studies is a solid Liberal Arts degree that provides undergraduates with the intellectual, analytical, communication and interpersonal skills essential for success in any career. 
 
 [Learn More about Majoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
 
 ## Minor in Jewish Studies
-If you major in another subject, minoring in Jewish Studies adds an interdisciplinary depth to your college education. Our minor in Jew Studies allows students interested in business, the sciences, engineering, government and social services to present an exceptional academic background to prospective employers. Students choose from among the full range of Jewish Studies courses in Jewish history, Bible, Talmud, rabbinics, Jewish literature, and medieval and modern Jewish studies. 
+If you major in another subject, minoring in Jewish Studies adds an interdisciplinary depth to your college education. Our minor in Jewish Studies allows students interested in business, the sciences, engineering, government and social services to present an exceptional academic background to prospective employers. Students choose from among the full range of Jewish Studies courses in Jewish history, Bible, Talmud, rabbinics, Jewish literature, and medieval and modern Jewish studies. 
 
 [Learn More about Minoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
 
@@ -54,7 +54,6 @@ At Temple, we believe that students from all walks of life should have access to
 
 ## Tuition and Fees
 For more than 125 years, we have focused on providing a world-class education at an affordable price. Just compare Temple to other comparable universities and see what we mean. Temple tuition rates vary by school or college, student level, residency status, and more. Use the Temple tuition calculator to estimate your tuition rate.
-
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Undergraduate Admissions
