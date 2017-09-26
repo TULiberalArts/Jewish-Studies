@@ -16,14 +16,14 @@ In collaboration with institutions in Philadelphia and beyond, the Feinstein Cen
 [Learn More about the Feinstein Center](http://www.cla.temple.edu/feinsteincenter/)
 
 ## Hillel at Temple University
-Helping Jewish students to create their own Jewish journeys is an everyday experience at Hillel at Temple University. Temple University is home to more than 2,000 undergraduate and 1,500 graduate Jewish students. More than 700 students are involved in Jewish activities sponsered by Hillel at Temple University: The Edward H. Rosen Center for Jewish Life each month. This makes Hillel one of the most active student organizations on campus. The Edward H. Rosen Center for Jewish Life, a 15,000-sf state-of-the-art Hillel facility for students and alumni of Temple University features a kosher deli, warm and caring staff and wifi. 
+Helping Jewish students to create their own Jewish journeys is an everyday experience at Hillel at Temple University. Temple University is home to more than 2,000 undergraduate and 1,500 graduate Jewish students. More than 700 students are involved in Jewish activities sponsered by Hillel at Temple University: The Edward H. Rosen Center for Jewish Life each month. This makes Hillel one of the most active student organizations on campus. The Edward H. Rosen Center for Jewish Life, a 15,000-sf state-of-the-art Hillel facility for students and alumni of Temple University features a kosher deli, warm and caring staff and wifi.  
 
 [Learn More about Hillel at Temple](http://www.templehillel.com/)
 
-## Study Abroad in Israel
-Enhance your Jewish Studies curriculum in the Jewish homeland. Not only is Israel a country with unrivaled religious, cultural and political significance, it is also the second most educated country in the world. Israel is one of the most common countries that students travel to as a part of study abroad program. Temple offers many opportunities to study abroad in Israel through external programs and exchanges. 
+## Association for Jewish Studies
+The Association for Jewish Studies (AJS) was founded in 1969 by a small group of scholars seeking a forum for exploring methodological and pedagogical issues in the new field of Jewish Studies. Since its founding, the AJS has grown into the largest learned society and professional organization representing Jewish Studies scholars worldwide. As a constituent organization of the American Council of Learned Societies, the Association for Jewish Studies represents the field in the larger arena of the academic study of the humanities and social sciences in North America. Temple faculty serve on the board of directors and participate in the annual conference. 
 
-[Find Out More](https://studyabroad.temple.edu/programs) 
+[Learn More about the Association for Jewish Studies](https://www.associationforjewishstudies.org/)
 
 ## Journal of Ecumenical Studies 
 The Department of Religion at Temple University houses and edits the _Journal of Ecumenical Studies_ (J.E.S.), the premier journal in inter-religious conversation. Co-founded and edited by Leonard Swidler in 1964, a professor of Catholic Thought and Interreligious Dialogue at Temple, J.E.S is the first peer-reviewed publication in our discipline. Published initially as an intra-Christian endeavor, it quickly evolved to include Christian-Jewish dialogue and then further expanded to include all the world’s major religions and ideologies, including atheism.  
@@ -31,10 +31,9 @@ The Department of Religion at Temple University houses and edits the _Journal of
 ## The Dialogue Institute
 The Dialogue Institute (DI), based at Temple University, is associated with the Journal of Ecumenical Studies. The DI leads and sustains a movement of interreligious and intercultural dialogue within an academic setting and on a global scale. In partnership with the Temple University Department of Religion, the DI offers graduate courses and opportunities for independent study in interfaith dialogue. Graduate student interns contribute original research and produce new resources to further interreligious understanding and action. For more information contact the [Dialogue Institute office](mailto:info@dialogueinstitute.org). 
 
-## Association for Jewish Studies
-The Association for Jewish Studies (AJS) was founded in 1969 by a small group of scholars seeking a forum for exploring methodological and pedagogical issues in the new field of Jewish Studies. Since its founding, the AJS has grown into the largest learned society and professional organization representing Jewish Studies scholars worldwide. As a constituent organization of the American Council of Learned Societies, the Association for Jewish Studies represents the field in the larger arena of the academic study of the humanities and social sciences in North America.  
+[Learn More about the Dialogue Institute](http://dialogueinstitute.org/)
 
-### Undergraduate Awards
+## Undergraduate Awards
 - **Samuel and Esther Goldin Scholarship in Jewish Studies**: Established by Julia and Rosaline Goldin in memory of their parents Samuel and Esther Goldin, this award is given to an outstanding student majoring or minoring in Jewish studies to help defray the cost of the student’s education at Temple University.
 - **Religion Department Prize for Academic Excellence**: Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.
 - **Religion Department Merit Prize**: This prize is awarded by the Department of Religion to a graduating senior for academic excellence and intellectual and social contributions to our department.
