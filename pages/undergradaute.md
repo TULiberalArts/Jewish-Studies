@@ -32,7 +32,7 @@ If you major in another subject, minoring in Jewish Studies adds an interdiscipl
 [Learn More about Minoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
 
 ## Certificate in Secular Jewish Studies
-Our certificate program highlights the secular, non-religious sphere of Jewish experience and Jews in America. Temple's Certificate in Secular Jewish Studies is open to all Temple students. A mini-minor on expressions of Jewishness in everything from politics to the arts, you'll take courses that introduce you to the history and concept of secular space and traditions in Western culture. 
+Over the past two decades, the number of American Jews who define themselves as secular has almost doubled. Our Certificate in Secular Jewish Studies program highlights the secular, non-religious sphere of Jewish experience and Jews in the United States. A mini-minor on expressions of Jewishness in everything from politics to the arts, you'll take courses that introduce you to the history and concept of secular space and traditions in Western culture. The certificate program is the first of its kind. Jewish secularism is rarely approached as an individual subject, and few institutions devote the academic rigor and resources to it that Temple University does.
 
 [Learn More about Temple's Certificate in Secular Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/) 
 
@@ -42,10 +42,10 @@ Enhance your Jewish Studies and Hebrew language programs in Israel. Not only is 
 [Learn More about Studying Abroad in Israel](https://studyabroad.temple.edu/programs)
 
 ## Jewish Studies Internships
-The Jewish Studies Internship course engages students trough a hands-on experience with cultural, historical or religious Jewish organizations in Philadelphia's vibrant Jewish community. You'll work with the Director of Jewish Studies to develop an appropriate set of readings and complete a research project based on your internship experience. 
+The Jewish Studies Internship course engages students trough hands-on experience with cultural, historical or religious Jewish organizations in Philadelphia's vibrant Jewish community. You'll work with the Director of Jewish Studies to develop an appropriate set of readings and complete a research project based on your internship experience. 
 
 ## Academic Advising and Professional Development
-Our award-winning advising staff helps students take full advantage of the College of Liberal Arts’ flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure they have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opportunities. 
+Our award-winning advising staff helps you take full advantage of the College of Liberal Arts’ flexible curriculum by assisting you in developing a personalized academic plan that ensures you graduate on time. We also work closely with you to ensure that you have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opportunities. 
 
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
 
