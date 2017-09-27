@@ -10,7 +10,7 @@ feature-title:
 feature-body: 
 feature-image: 
 ---
-## Examine Jewish History, Culture and Thought in Philadelphia
+## Examine Jewish History, Culture and Thought at Temple University
 Explore over 3,000 years of Jewish civilization under the guidance of leading religion scholars at Temple University. 
 Our Jewish Studies program implements a broad and multidisciplinary liberal arts approach to the study of Jewish people, Jewishness and Judaism. The Department of Religion is our home, and our faculty deals with the study of Judaism and religion as a whole as an academic discipline. You do not need a particular religious background to study with us, as part of a major public university, our courses and programs are open to students of all backgrounds. Classes cover both biblical and modern aspects of Jewish Studies, from the Dead Sea Scrolls to modern Jewish filmmakers and comedians. 
 
@@ -43,7 +43,7 @@ When you are ready to apply, submit your application online at [admissions.templ
         title="Feinstein Center for American Jewish History" 
         content="The Feinstein Center for American Jewish History supports innovative approaches to understanding American Jewish life and holds cultural events." 
         image="" 
-        button-link="https://studyabroad.temple.edu/" 
+        button-link="http://www.cla.temple.edu/feinsteincenter/" 
         button-text="Learn More" %}
       </div>
 </div>
