@@ -22,7 +22,7 @@ sidebar-content: |
    [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
 ---
 ## BA in Jewish Studies
-If you major in Jewish Studies, you'll explore over 3,000 years of Jewish civilization under the guidance of leading scholars. From biblical times to modern Jewish humor, Judaism and Jewish people have changed the world. Our BA in Jewish Studies program emphasizes intellectual, analytical, communication and interpersonal skills - essential for success in any career. If you join us, you will explore contemporary issues of Jewish culture, identity and practice through the topics of immigration, gender, religious practice, artistic expression, politics and more. The major in Jewish Studies is offered through the College of Liberal Arts and offers students a broad but rigorous education in the humanities and social sciences.
+Our BA in Jewish Studies program emphasizes intellectual, analytical, communication and interpersonal skills - essential for success in any career. If you join us, you will explore contemporary issues of Jewish culture, identity and practice through the topics of immigration, gender, religious practice, artistic expression, politics and more. The major in Jewish Studies is offered through the College of Liberal Arts and offers students a broad but rigorous education in the humanities and social sciences.
 
 [Learn More about Majoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
 
