@@ -32,15 +32,15 @@ When you are ready to apply, submit your application online at [admissions.templ
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Hillel at Temple University" 
-      content="More than 700 students are involved in Jewish activities sponsored by Hillel at Temple University every month." 
+      content="More than 700 students are involved in Jewish activities sponsored by Hillel at Temple University every month. The Edward H. Rosen Center for Jewish Life features a kosher deli that serves lunch and dinner, wifi and a warm and caring staff." 
       image="" 
       button-link="http://www.templehillel.com/ " 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Study Abroad Programs" 
-        content="Enhance your Jewish Studies in Israel or in another country of your choice." 
+        title="Feinstein Center for American Jewish History" 
+        content="In collaboration with institutions in Philadelphia and beyond, the Feinstein Center invites you to join in on conversations about Jewish culture, politics, history and identity across time and space. " 
         image="" 
         button-link="https://studyabroad.temple.edu/" 
         button-text="Learn More" %}
