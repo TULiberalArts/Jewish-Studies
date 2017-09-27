@@ -40,7 +40,7 @@ Are you ready to apply? Submit your online application at [admissions.temple.edu
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Feinstein Center for American Jewish History" 
+        title="Feinstein Center at Temple University" 
         content="The Feinstein Center for American Jewish History supports innovative approaches to understanding American Jewish life and holds cultural events." 
         image="" 
         button-link="http://www.cla.temple.edu/feinsteincenter/" 
