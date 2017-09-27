@@ -1,7 +1,7 @@
 ---
 title: Undergraduate
 description: >-
-  Major or minor in Jewish Studies at Temple University. Explore the culture and history of the Jewish people through literature, art     and religious thought.  
+  Major or minor in Jewish Studies at Temple University. Explore the culture and history of the Jewish people through literature, art and religious thought.  
 keywords: 'BA in Jewish Studies, major in Jewish Studies, minor in Jewish Studies, Certificate in Secular Jewish Studies'
 permalink: /undergraduate/
 layout: page
@@ -45,9 +45,14 @@ Enhance your Jewish Studies and Hebrew language programs in Israel. Not only is 
 The Jewish Studies Internship course engages students trough hands-on experience with cultural, historical or religious Jewish organizations in Philadelphia's vibrant Jewish community. You'll work with the Director of Jewish Studies to develop an appropriate set of readings and complete a research project based on your internship experience. 
 
 ## Academic Advising and Professional Development
-Our award-winning advising staff helps you take full advantage of the College of Liberal Arts’ flexible curriculum by assisting you in developing a personalized academic plan that ensures you graduate on time. We also work closely with you to ensure that you have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opportunities. 
+Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you develop a personalized academic plan that lets you graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing academic work with study abroad programs, internships and other experiential learning opportunities. 
 
 [Learn More About Our Advising Staff](https://liberalarts.temple.edu/advising)
+
+## Fly in Four
+Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
+
+[Learn How to Fly in Four](http://fly.temple.edu/)
 
 ## Financial Aid and Scholarships
 At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
