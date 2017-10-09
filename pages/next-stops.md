@@ -11,14 +11,12 @@ layout: page
 published: true
 ---
 ## What Can I do with a Major or Minor in Jewish Studies?
-Jewish Studies graduates are often hired by community centers, cultural and arts organizations, universities, religious centers, human services organizations and nonprofits. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, health and human services and conflict resolution. Some students continue their education in doctoral programs, law school, medical school or enter Rabbinical school. With a degree in religion, the world is at your fingertips.
+Jewish Studies graduates are often hired by community centers, cultural and arts organizations, universities, religious centers, human services organizations and nonprofits. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, health and human services and more. Some students continue their education in doctoral programs, law school, medical school or enter Rabbinical school. 
 
 Graduates in Jewish Studies have job titles that include
 
 - Associate Professor of Religion
 - Peace Corps Worker
-- Program Manager
-- Hospice Worker
 - Cultural community manager
 - International Development Consultant
 - Journalist
@@ -33,7 +31,7 @@ Graduates in Jewish Studies have job titles that include
 - Social Worker
 
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
+The [College of Liberal Arts](https://liberalarts.temple.edu/) has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests, from the humanities and social sciences to business and the media arts. The College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education at a premier urban, research university.
 
 [Explore Our Academic Offerings](liberalarts.temple.edu)
 
@@ -45,7 +43,7 @@ Temple students can study abroad in almost any country through our programs, exc
 ## Visit Us!
 Experience Temple University firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture and the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
 
-[Learn More](http://admissions.temple.edu/visit)
+[Arrange a Visit Today](http://admissions.temple.edu/visit)
 
 ## Thinking Of Transferring?
 Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student.  If you're thinking about transferring, consider attending a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session.
@@ -53,7 +51,7 @@ Almost half of incoming Temple students transfer from other colleges and univers
 [Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-Are you ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
+Ready to apply? [Submit your application online](http://admissions.temple.edu/apply).
 
 ### Deadlines
 - **February 1**: Freshman Application Deadline for Fall Semester
