@@ -17,7 +17,6 @@ Graduates in Jewish Studies have job titles that include
 
 - Associate Professor of Religion
 - Peace Corps Worker
-- Cultural community manager
 - International Development Consultant
 - Journalist
 - Interfaith Center Administrator
@@ -26,7 +25,6 @@ Graduates in Jewish Studies have job titles that include
 - Physician
 - Rabbi
 - Nonprofit Director
-- Rabbi
 - High School Teacher
 - Social Worker
 
