@@ -1,8 +1,11 @@
 ---
 title: Undergraduate
 description: >-
-  Major or minor in Jewish Studies at Temple University. Explore the culture and history of the Jewish people through literature, art and religious thought.  
-keywords: 'BA in Jewish Studies, major in Jewish Studies, minor in Jewish Studies, Certificate in Secular Jewish Studies'
+  Major or minor in Jewish Studies at Temple University. Explore the culture and
+  history of the Jewish people through literature, art and religious thought.  
+keywords: >-
+  BA in Jewish Studies, major in Jewish Studies, minor in Jewish Studies,
+  Certificate in Secular Jewish Studies
 permalink: /undergraduate/
 layout: page
 published: true
@@ -22,7 +25,7 @@ sidebar-content: |
    [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
 ---
 ## BA in Jewish Studies
-Our BA in Jewish Studies program emphasizes intellectual, analytical, communication and interpersonal skills - essential for success in any career. If you join us, you will explore contemporary issues of Jewish culture, identity and practice through the topics of immigration, gender, religious practice, artistic expression, politics and more. The major in Jewish Studies is offered through the College of Liberal Arts and offers students a broad but rigorous education in the humanities and social sciences.
+Our BA in Jewish Studies program emphasizes intellectual, analytical, communication and interpersonal skills - essential for success in any career. If you join us, you will explore contemporary issues of Jewish culture, identity and practice through the topics of immigration, gender, religious practice, artistic expression, politics and more. The major in Jewish Studies is offered through the [College of Liberal Arts](https://liberalarts.temple.edu/) and offers students a broad but rigorous education in the humanities and social sciences.
 
 [Learn More about Majoring in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
 
@@ -55,7 +58,7 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 [Learn How to Fly in Four](http://fly.temple.edu/)
 
 ## Financial Aid and Scholarships
-At Temple, we believe that students from all walks of life should have access to a college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
 
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
@@ -64,10 +67,9 @@ For more than 125 years, we have focused on providing a world-class education at
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Undergraduate Admissions
-Are you ready to apply? Submit your online application at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
 
 ## Academic Offerings
 - [Bachelor of Arts in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
 - [Minor in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
 - [Certificate in Jewish Secular Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/)
-
