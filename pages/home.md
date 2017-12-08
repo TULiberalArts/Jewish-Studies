@@ -3,12 +3,12 @@ title: Home
 permalink: /
 description: >-
   At Temple University we a major and minor in Jewish Studies. In addition, we
-  were the first university to offer a             Certificate in Secular Jewish
+  were the first university to offer a Certificate in Secular Jewish
   Studies.  
 keywords: >-
   Jewish Studies, Temple University, BA in Jewish Studies, major or minor in
   Jewish Studies
-layout: home
+layout: home3
 feature: false
 feature-title: null
 feature-body: null
