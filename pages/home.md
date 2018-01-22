@@ -5,7 +5,7 @@ description: >-
 keywords: >-
  Jewish Studies, Temple University, BA in Jewish Studies, major or minor in Jewish Studies
 layout: home3
-feature: 
+feature: true
 feature-title: Explore over 3,000 years of Jewish civilization under the guidance of leading religion scholars at Temple University.
 feature-body: >- 
   Explore over 3,000 years of Jewish civilization under the guidance of leading religion 
