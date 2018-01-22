@@ -8,8 +8,6 @@ layout: home3
 feature: true
 feature-title: Explore over 3,000 years of Jewish civilization under the guidance of leading religion scholars at Temple University.
 feature-body: >- 
-  Explore over 3,000 years of Jewish civilization under the guidance of leading religion 
-  scholars at Temple University with a major or minor in Jewish Studies.
 feature-image: media/Religion Hero.png 
 published: true
 ---
