@@ -39,11 +39,6 @@ Over the past two decades, the number of American Jews who define themselves as 
 
 [Learn More about Temple's Certificate in Secular Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/) 
 
-## Study Abroad in Israel
-Enhance your Jewish Studies and Hebrew language programs in Israel. Not only is Israel a country with unrivaled religious, cultural and political significance, it is also the second most educated country in the world. Israel is one of the most common countries that students travel to as a part of study abroad program. In addition to Israel, Jewish Studies majors travel to almost every country for study abroad programs through Temple University's external programs and exchanges. 
-
-[Learn More about Studying Abroad in Israel](https://studyabroad.temple.edu/programs)
-
 ## Jewish Studies Internships
 The Jewish Studies Internship course engages students trough hands-on experience with cultural, historical or religious Jewish organizations in Philadelphia's vibrant Jewish community. You'll work with the Director of Jewish Studies to develop an appropriate set of readings and complete a research project based on your internship experience. 
 
