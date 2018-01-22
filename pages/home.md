@@ -23,18 +23,18 @@ Our Jewish Studies program implements a broad and multidisciplinary liberal arts
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="The Dialogue Institute" 
-    content="In partnership with the Temple University Department of Religion, the Dialogue Institute offers graduate courses and opportunities for independent study in interfaith dialogue." 
+    title="NEED CONTENT" 
+    content="NEED A DESCRIPTION" 
     image="" 
-    button-link="http://dialogueinstitute.org/" 
+    button-link="" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Hillel at Temple University" 
-      content="More than 700 students are involved in Jewish activities sponsored by Hillel at Temple University every month. This makes Hillel one of the most active student organizations on campus." 
+      title="NEED CONTENT" 
+      content="NEED A DESCRIPTION" 
       image="" 
-      button-link="http://www.templehillel.com/ " 
+      button-link="" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
