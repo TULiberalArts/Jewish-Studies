@@ -22,9 +22,13 @@ The Association for Jewish Studies (AJS) was founded in 1969 by a small group of
 - **Religion Department Prize for Academic Excellence**: Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.
 - **Religion Department Merit Prize**: This prize is awarded by the Department of Religion to a graduating senior for academic excellence and intellectual and social contributions to our department.
 
-## Undergraduate Resources
-- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
+## Financial Aid and Scholarships
+At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
+
+[Student Financial Services](https://sfs.temple.edu/financial-aid-types)
+
+## Additional Undergraduate Resources
 - [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
 - [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate Funding](http://sfs.temple.edu/)
+- [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
