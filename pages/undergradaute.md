@@ -9,20 +9,7 @@ keywords: >-
 permalink: /undergraduate/
 layout: tla_page
 published: true
-sidebar: true
-sidebar-content: |
-  **Director:**  
-   Dr. Mark Leuchter  
-   650 Anderson Hall    
-   [mark.leuchter@temple.edu](mailto:mark.leuchter@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall  
-   [(215) 204-9209](tel:2152049209)  
-   [maggie.cogswell@temple.edu](mailto:maggie.cogswell@temple.edu)
+sidebar: false
 ---
 ## BA in Jewish Studies
 Our BA in Jewish Studies program emphasizes intellectual, analytical, communication and interpersonal skills - essential for success in any career. If you join us, you will explore contemporary issues of Jewish culture, identity and practice through the topics of immigration, gender, religious practice, artistic expression, politics and more. The major in Jewish Studies is offered through the [College of Liberal Arts](https://liberalarts.temple.edu/) and offers students a broad but rigorous education in the humanities and social sciences.
