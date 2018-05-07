@@ -7,11 +7,11 @@ keywords: >-
   Temple undergraduate students, Temple graduate students, Temple financial aid,
   Jewish Studies scholarships, Department of Religion, Study Abroad Programs
 permalink: /next-stops/
-layout: page
+layout: tla_page
 published: true
 ---
 ## What Can I do with a Major or Minor in Jewish Studies?
-Jewish Studies graduates are often hired by community centers, cultural and arts organizations, universities, religious centers, human services organizations and nonprofits. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, health and human services and more. Some students continue their education in doctoral programs, law school, medical school or enter Rabbinical school. 
+Jewish Studies graduates are often hired by community centers, cultural and arts organizations, universities, religious centers, human services organizations and nonprofits. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, health and human services and more. Some students continue their education in doctoral programs, law school, medical school or enter Rabbinical school.
 
 Graduates in Jewish Studies have job titles that include
 
@@ -34,7 +34,7 @@ The [College of Liberal Arts](https://liberalarts.temple.edu/) has the largest s
 [Explore Our Academic Offerings](liberalarts.temple.edu)
 
 ## Study Abroad Programs
-Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you? 
+Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will Temple take you?
 
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 

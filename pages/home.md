@@ -4,11 +4,11 @@ permalink: /
 description: >-  
 keywords: >-
  Jewish Studies, Temple University, BA in Jewish Studies, major or minor in Jewish Studies
-layout: home3
+layout: tla_home
 feature: true
 feature-title: Explore over 3,000 years of Jewish civilization under the guidance of leading religion scholars at Temple University.
-feature-body: >- 
-feature-image: media/Religion Hero.png 
+feature-body: >-
+feature-image: media/Religion Hero.png
 published: true
 ---
 ## Examine Jewish History, Culture and Practice in Philly
@@ -20,27 +20,27 @@ Our Jewish Studies program implements a broad and multidisciplinary liberal arts
 - [Certificate in Jewish Secular Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/)
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="NEED CONTENT" 
-    content="NEED A DESCRIPTION" 
-    image="" 
-    button-link="" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="NEED CONTENT"
+    content="NEED A DESCRIPTION"
+    image=""
+    button-link=""
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NEED CONTENT" 
-      content="NEED A DESCRIPTION" 
-      image="" 
-      button-link="" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="NEED CONTENT"
+      content="NEED A DESCRIPTION"
+      image=""
+      button-link=""
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Feinstein Center at Temple University" 
-        content="The Feinstein Center for American Jewish History supports innovative approaches to understanding American Jewish life and holds cultural events." 
-        image="" 
-        button-link="http://www.cla.temple.edu/feinsteincenter/" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Feinstein Center at Temple University"
+        content="The Feinstein Center for American Jewish History supports innovative approaches to understanding American Jewish life and holds cultural events."
+        image=""
+        button-link="http://www.cla.temple.edu/feinsteincenter/"
         button-text="Learn More" %}
       </div>
 </div>

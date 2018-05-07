@@ -1,11 +1,12 @@
 ---
 # Program/Department Title
 title: Jewish Studies
+# Site URL (without /)
+url: "https://www.cla.temple.edu/jewish-studies"
 # Subdirectory (with / at only at beginning)
 baseurl: /jewish-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -58,7 +59,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/jewish-studies
-program_events: https://events.temple.edu/department/jewish-studies 
+program_events: https://events.temple.edu/department/jewish-studies
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
