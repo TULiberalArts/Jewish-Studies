@@ -77,6 +77,7 @@ media-mentions-feed: https://liberalarts.temple.edu/media-mentions/jewish-studie
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
 theme: tutheme
+palette: cherry
 
 # Global Site Config
 # DO NOT edit below unless if you know what you're doing!
