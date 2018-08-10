@@ -24,7 +24,7 @@ If you major in another subject, minoring in Jewish Studies adds an interdiscipl
 ## Certificate in Secular Jewish Studies
 Over the past two decades, the number of American Jews who define themselves as secular has almost doubled. Our Certificate in Secular Jewish Studies program is the first of its kind and highlights the secular, non-religious sphere of Jewish experience. A mini-minor on expressions of Jewishness in everything from politics to the arts, you'll take courses that introduce you to the history and concept of secular space and traditions in Western culture. Jewish secularism is rarely approached as an individual subject, and few institutions devote the academic rigor and resources to it that Temple University does.
 
-[Learn More about Temple's Certificate in Secular Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/)
+[Learn More about Temple's Certificate in Secular Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-jewish-secular-studies/)
 
 ## Jewish Studies Internships
 The Jewish Studies Internship course engages students trough hands-on experience with cultural, historical or religious Jewish organizations in Philadelphia's vibrant Jewish community. You'll work with the Director of Jewish Studies to develop an appropriate set of readings and complete a research project based on your internship experience.
@@ -36,8 +36,3 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 
 ## Undergraduate Admissions
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
-
-## Academic Offerings
-- [Bachelor of Arts in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
-- [Minor in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
-- [Certificate in Jewish Secular Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/)
