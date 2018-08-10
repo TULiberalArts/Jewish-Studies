@@ -17,7 +17,7 @@ Our Jewish Studies program implements a broad and multidisciplinary liberal arts
 ## Academic Offerings
 - [Bachelor of Arts in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
 - [Minor in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
-- [Certificate in Jewish Secular Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/certificate-jewish-studies/)
+- [Certificate in Jewish Secular Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-jewish-secular-studies/)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
