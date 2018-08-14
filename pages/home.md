@@ -26,7 +26,7 @@ ___
     title="Earn your BA in Jewish Studies"
     content="The major in Jewish Studies is offered through the College of Liberal Arts and offers students a broad but rigorous education in the humanities and social sciences."
     image=""
-    button-link="/jewish-studies/undergraduate#ba-in-jewish-studies/"
+    button-link="/jewish-studies/undergraduate#ba-in-jewish-studies"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
