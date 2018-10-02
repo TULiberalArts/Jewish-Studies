@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home of The Jewish Studies
 permalink: /
 description: >-  
 keywords: >-
