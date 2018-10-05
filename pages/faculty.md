@@ -6,5 +6,7 @@ description: >-
 keywords: 'Department of Religion Faculty, Jewish Studies faculty, temple university'
 layout: tla_faculty
 published: true
+#custom variables
+faculty: profiles/faculty.html
 ---
 Jewish Studies faculty is culled from across the College of Liberal Arts. They also teach in the History, Women's Studies, Political Science and Religion Departments.
