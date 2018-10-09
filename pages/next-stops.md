@@ -7,7 +7,7 @@ keywords: >-
   Temple undergraduate students, Temple graduate students, Temple financial aid,
   Jewish Studies scholarships, Department of Religion, Study Abroad Programs
 permalink: /next-stops/
-layout: test
+layout: tla-test
 published: true
 ---
 ## What Can I do with a Major or Minor in Jewish Studies?
