@@ -10,6 +10,7 @@ permalink: /next-stops/
 layout: tla_page
 published: true
 ---
+
 ## What Can I do with a Major or Minor in Jewish Studies?
 Jewish Studies graduates are often hired by community centers, cultural and arts organizations, universities, religious centers, human services organizations and nonprofits. Cultural sensitivity, analytical thinking and sharp communication skills are necessary for work in public service, diplomacy, journalism, counseling, health and human services and more. Some students continue their education in doctoral programs, law school, medical school or enter Rabbinical school.
 
