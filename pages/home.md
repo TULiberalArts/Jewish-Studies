@@ -5,8 +5,6 @@ description: >-
 keywords: >-
  Jewish Studies, Temple University, BA in Jewish Studies, major or minor in Jewish Studies
 layout: tla_home
-promotion-table: true
-
 feature: true
 feature-image: media/Religion Hero.png
 published: true
