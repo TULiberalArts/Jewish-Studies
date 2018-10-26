@@ -11,9 +11,9 @@ layout: doc
   <!-- hero is not smart yet. It lives in the site program repo  @todo make it a smart hero -->
   <div class="bg-color-band">
   </div>
-  <div class="main-wrapper">
 
-    <main>
+  <main>
+    <div class="inner-main-wrapper">
       {% if page.hero %}
       {% include {{ page.hero }} %}
       {% endif %}
@@ -31,10 +31,10 @@ layout: doc
           </div>
         </div>
       </div>
+    </div>
+    <!-- END inner-main-wrapper -->
+  </main>
 
-    </main>
-  </div>
-  <!-- END main-wrapper -->
   <footer class="tla-footer">
     <!-- @todo create a ppv-footer include. -->
     {% include footer.html %}
