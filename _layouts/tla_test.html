@@ -11,26 +11,30 @@ layout: doc
   <!-- hero is not smart yet. It lives in the site program repo  @todo make it a smart hero -->
   <div class="bg-color-band">
   </div>
-  <main class="tla-main" style="top: -400px">
-    {% if page.hero %}
-    {% include {{ page.hero }} %}
-    {% endif %}
-    <!-- content comes fromt the page's markdown in the programs repo-->
+  <div class="main-wrapper">
 
-    <div class="page-content">
-      <div class="container">
-        <div class="row">
-          {% if page.sidebar %}
-          <div class="col s11 offset-s1 m11 offset-m1 l6 offset-l1">{{ content }}</div>
-          <div class="col s11 offset-s1 m11 offset-m1 l5"> {% include {{ page.sidebar }} %} </div>
-          {% else %}
-          <div class="col s11 offset-s1">{{ content }}</div>
-          {% endif %}
+    <main>
+      {% if page.hero %}
+      {% include {{ page.hero }} %}
+      {% endif %}
+      <!-- content comes fromt the page's markdown in the programs repo-->
+
+      <div class="page-content">
+        <div class="container">
+          <div class="row">
+            {% if page.sidebar %}
+            <div class="col s11 offset-s1 m11 offset-m1 l6 offset-l1">{{ content }}</div>
+            <div class="col s11 offset-s1 m11 offset-m1 l5"> {% include {{ page.sidebar }} %} </div>
+            {% else %}
+            <div class="col s11 offset-s1">{{ content }}</div>
+            {% endif %}
+          </div>
         </div>
       </div>
-    </div>
 
-  </main>
+    </main>
+  </div>
+  <!-- END main-wrapper -->
   <footer class="tla-footer">
     <!-- @todo create a ppv-footer include. -->
     {% include footer.html %}
