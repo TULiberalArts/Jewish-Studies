@@ -13,7 +13,7 @@ layout: doc
   </div>
 
   <main>
-    <div class="inner-main-wrapper">
+
       {% if page.hero %}
       {% include {{ page.hero }} %}
       {% endif %}
@@ -22,6 +22,7 @@ layout: doc
       <div class="page-content">
         <div class="container">
           <div class="row">
+            <div class="content-row-wrapper">
             {% if page.sidebar %}
             <div class="col s11 offset-s1 m11 offset-m1 l6 offset-l1">{{ content }}</div>
             <div class="col s11 offset-s1 m11 offset-m1 l5"> {% include {{ page.sidebar }} %} </div>
@@ -29,10 +30,11 @@ layout: doc
             <div class="col s11 offset-s1">{{ content }}</div>
             {% endif %}
           </div>
+          <!-- END content-row-wrapper -->
         </div>
       </div>
     </div>
-    <!-- END inner-main-wrapper -->
+
   </main>
 
   <footer class="tla-footer">
