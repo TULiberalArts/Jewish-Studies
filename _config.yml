@@ -11,7 +11,7 @@ production: https://www.cla.temple.edu
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
 theme: tutheme
-palette: cherry
+palette: tla-dark
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -37,7 +37,7 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
-  
+
 program_news: https://liberalarts.temple.edu/news/jewish-studies
 program_events: https://events.temple.edu/department/jewish-studies
 
