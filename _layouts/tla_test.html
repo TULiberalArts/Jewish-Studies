@@ -9,28 +9,28 @@ layout: doc
   </header>
   <!-- tla-page -->
   <!-- hero is not smart yet. It lives in the site program repo  @todo make it a smart hero -->
-  <div class="bg-color-band">
-  </div>
+  <div class="bg-color-band"></div>
 
   <main>
 
-      {% if page.hero %}
-      {% include {{ page.hero }} %}
-      {% endif %}
-      <!-- content comes fromt the page's markdown in the programs repo-->
+    {% if page.hero %}
+    {% include {{ page.hero }} %}
+    {% endif %}
+    <!-- content comes fromt the page's markdown in the programs repo-->
 
-      <div class="page-content">
-        <div id="content-container" class="container">
-          <div class="row">
-            <div class="content-row-wrapper">
-            {% if page.sidebar %}
-            <div class="col s11 offset-s1 m11 offset-m1 l6 offset-l1">{{ content }}</div>
+    <div class="page-content">
+      <div id="content-container" class="container center-align">
+        <div class="row">
+          {% if page.sidebar %}
+          <div class="col s12">{{ content }}</div>
+          <div class="col s12"> {% include {{ page.sidebar }} %} </div>
+          {% else %}
+          <div class="col s12">{{ content }}</div>
+          <!-- <div class="col s11 offset-s1 m11 offset-m1 l6 offset-l1">{{ content }}</div>
             <div class="col s11 offset-s1 m11 offset-m1 l5"> {% include {{ page.sidebar }} %} </div>
             {% else %}
-            <div class="col s11 offset-s1">{{ content }}</div>
-            {% endif %}
-          </div>
-          <!-- END content-row-wrapper -->
+            <div class="col s11 offset-s1">{{ content }}</div> -->
+          {% endif %}
         </div>
       </div>
     </div>
