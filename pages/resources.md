@@ -4,7 +4,7 @@ permalink: /resources/
 description: >-
   Find scholarships for Jewish Studies majors. learn about Hillel at Temple University and the Feinstein Center for American   Jewish History.
 keywords: 'Jewish Studies scholarships, Feinstein Center for American Jewish History, Hillel Temple University, Association for Jewish Studies, Dialogue Institute'
-layout: tla_page
+layout: tla_test
 published: true
 ---
 ## Feinstein Center for American Jewish History
