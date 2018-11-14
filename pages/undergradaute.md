@@ -7,7 +7,7 @@ keywords: >-
   BA in Jewish Studies, major in Jewish Studies, minor in Jewish Studies,
   Certificate in Secular Jewish Studies
 permalink: /undergraduate/
-layout: tla_test
+layout: tla_page_test
 published: true
 
 ---
