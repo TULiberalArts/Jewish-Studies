@@ -7,7 +7,7 @@ keywords: >-
   Temple undergraduate students, Temple graduate students, Temple financial aid,
   Jewish Studies scholarships, Department of Religion, Study Abroad Programs
 permalink: /next-stops/
-layout: tla_page_test
+layout: tla_page
 published: true
 ---
 
