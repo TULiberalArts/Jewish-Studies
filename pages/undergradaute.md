@@ -36,3 +36,18 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 
 ## Undergraduate Admissions
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
+
+<p><strong>Program Details</strong></p>
+<button class="collapsible">Application Requirements</button>
+<div class="content">
+  <p class ="left">Writing honors thesis llenging and rewarding endeavor.  Applicants for the History Honors Scholar Program should normally have an overall GPA of 3.4 or higher and a GPA of 3.4 or higher within history courses. Most students who participate in the program do so in their “junior” (60 or more credits earned) or “senior” (90 or more credits earned) years.</p>
+</div>
+<button class="collapsible">Open Section 2</button>
+<div class="content">
+  <p class ="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">Open Section 3</button>
+<div class="content">
+  <p class ="left">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
