@@ -18,9 +18,30 @@ The Association for Jewish Studies (AJS) was founded in 1969 by a small group of
 [Learn More about the Association for Jewish Studies](https://www.associationforjewishstudies.org/)
 
 ## Undergraduate Awards
-- **Samuel and Esther Goldin Scholarship in Jewish Studies**: Established by Julia and Rosaline Goldin in memory of their parents Samuel and Esther Goldin, this award is given to an outstanding student majoring or minoring in Jewish studies to help defray the cost of tuition at Temple University.
-- **Religion Department Prize for Academic Excellence**: Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.
-- **Religion Department Merit Prize**: This prize is awarded by the Department of Religion to a graduating senior for academic excellence and intellectual and social contributions to our department.
+<div>
+<p>Undergraduate Awards</p>
+<button class="collapsible"><strong>Samuel and Esther Goldin Scholarship in Jewish Studies</button></strong>
+<div class="content">
+  <p>Established by Julia and Rosaline Goldin in memory of their parents Samuel and Esther Goldin, this award is given to an outstanding student majoring or minoring in Jewish studies to help defray the cost of tuition at Temple University.</p>
+</div>
+<button class="collapsible"><strong>Religion Department Prize for Academic Excellence</button></strong>
+<div class="content">
+  <p>Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.</p>
+</div>
+<button class="collapsible"><strong>Religion Department Merit Prize</button></strong>
+<div class="content">
+  <p>This prize is awarded by the Department of Religion to a graduating senior for academic excellence and intellectual and social contributions to our department.</p>
+</div>
+
+
+- **Samuel and Esther Goldin Scholarship in Jewish Studies**<br>
+Established by Julia and Rosaline Goldin in memory of their parents Samuel and Esther Goldin, this award is given to an outstanding student majoring or minoring in Jewish studies to help defray the cost of tuition at Temple University.
+
+- **Religion Department Prize for Academic Excellence**<br>
+Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.
+
+- **Religion Department Merit Prize**<br>
+This prize is awarded by the Department of Religion to a graduating senior for academic excellence and intellectual and social contributions to our department.
 
 ## Financial Aid and Scholarships
 At Temple, we believe that students from all walks of life should have access to an outstanding college education. If you need help paying for your education, you aren’t alone. Most students receive some form of financial aid to fund their education. About 60% of first-year Temple students receive need-based financial aid, and the average first-year financial aid package is about $15,000. Eligible students receive financial assistance from federal, sate, private and university sources. Explore your financial aid options and apply early to make your college education an affordable experience.
