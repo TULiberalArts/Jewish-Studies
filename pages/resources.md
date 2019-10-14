@@ -19,7 +19,6 @@ The Association for Jewish Studies (AJS) was founded in 1969 by a small group of
 
 ## Undergraduate Awards
 
-<div>
 <p>Undergraduate Awards</p>
 <button class="collapsible"><strong>Samuel and Esther Goldin Scholarship in Jewish Studies</button></strong>
 <div class="content">
@@ -32,7 +31,6 @@ The Association for Jewish Studies (AJS) was founded in 1969 by a small group of
 <button class="collapsible"><strong>Religion Department Merit Prize</button></strong>
 <div class="content">
   <p>This prize is awarded by the Department of Religion to a graduating senior for academic excellence and intellectual and social contributions to our department.</p>
-</div>
 
 ___
 
