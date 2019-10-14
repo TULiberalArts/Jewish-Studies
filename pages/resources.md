@@ -18,6 +18,7 @@ The Association for Jewish Studies (AJS) was founded in 1969 by a small group of
 [Learn More about the Association for Jewish Studies](https://www.associationforjewishstudies.org/)
 
 ## Undergraduate Awards
+
 <div>
 <p>Undergraduate Awards</p>
 <button class="collapsible"><strong>Samuel and Esther Goldin Scholarship in Jewish Studies</button></strong>
