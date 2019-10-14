@@ -19,12 +19,14 @@ The Association for Jewish Studies (AJS) was founded in 1969 by a small group of
 
 ## Undergraduate Awards
 
-<details>
 <p>Undergraduate Awards</p>
 <button class="collapsible"><strong>Samuel and Esther Goldin Scholarship in Jewish Studies</button></strong>
+<details>
 <div class="content">
   <p>Established by Julia and Rosaline Goldin in memory of their parents Samuel and Esther Goldin, this award is given to an outstanding student majoring or minoring in Jewish studies to help defray the cost of tuition at Temple University.</p>
 </div>
+</details>  
+
 <button class="collapsible"><strong>Religion Department Prize for Academic Excellence</button></strong>
 <div class="content">
   <p>Awarded to a graduating senior, this award is given by the religion department for an undergraduate who has completed outstanding work.</p>
@@ -32,7 +34,7 @@ The Association for Jewish Studies (AJS) was founded in 1969 by a small group of
 <button class="collapsible"><strong>Religion Department Merit Prize</button></strong>
 <div class="content">
   <p>This prize is awarded by the Department of Religion to a graduating senior for academic excellence and intellectual and social contributions to our department.</p>
-</details>
+
   
   
 ___
