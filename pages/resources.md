@@ -31,14 +31,13 @@ The Association for Jewish Studies (AJS) was founded in 1969 by a small group of
     <div class="panel-heading">
       <h4 class="panel-title">
         <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-        Collapsible Group 1</a>
+        Samuel and Esther Goldin Scholarship in Jewish Studies</a>
       </h4>
     </div>
     <div id="collapse1" class="panel-collapse collapse in">
-      <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.</div>
+      <div class="panel-body">Established by Julia and Rosaline Goldin in memory of their
+        parents Samuel and Esther Goldin, this award is given to an outstanding student majoring
+        or minoring in Jewish studies to help defray the cost of tuition at Temple University.</div>
     </div>
   </div>
   <div class="panel panel-default">
