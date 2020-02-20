@@ -22,3 +22,24 @@ ___
 - [Certificate in Jewish Secular Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-jewish-secular-studies/)
 
 ___
+
+<div class="row row-wide">
+  <div class="col m12 l4">{% include cards/card2-basic.html
+    title="Undergraduate Research"
+    content="Students are supported by faculty and encouraged to apply for funded research support. There are several ways for current students to receive funding."
+    button-link="http://dev.cla.temple.edu/liberal-arts-research/undergraduate/"
+    button-text="Learn More" %}
+  </div>
+  <div class="col m12 l4">{% include cards/card2-basic.html
+    title="Graduate Research"
+    content="The College of Liberal Arts offers multiple avenues of support for graduate student research."
+    button-link="http://dev.cla.temple.edu/liberal-arts-research/graduate/"
+    button-text="Learn More" %}
+    </div>
+    <div class="col m12 l4">{% include cards/card2-basic.html
+      title="Faculty Resources"
+      content="The College of Liberal Arts offers extensive support and opportunities for faculty research."
+      button-link="http://dev.cla.temple.edu/liberal-arts-research/faculty-resources/"
+      button-text="Learn More" %}
+    </div>
+</div>
