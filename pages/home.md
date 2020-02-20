@@ -26,7 +26,7 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-basic.html
     title="Undergraduate Research"
-    content="Students are supported by faculty and encouraged to apply for funded research support. There are several ways for current students to receive funding."
+    content="Students are supported by faculty and encouraged to apply for funded research support. There are several ways for current    students to receive funding."
     button-link="http://dev.cla.temple.edu/liberal-arts-research/undergraduate/"
     button-text="Learn More" %}
   </div>
