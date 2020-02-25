@@ -43,3 +43,45 @@ ___
       button-text="Learn More" %}
     </div>
 </div>
+
+<ul class="flex-cards">
+  <li class="flex-cards-item">
+    <div class="flex-card">
+
+      <h2 class="flex-card-title">card</h2>
+      <p class="flex-card-text">
+        This is the shorthand for flex-grow, flex-shrink and flex-basis combined. The second and third parameters
+        (flex-shrink and flex-basis) are optional. Default is 0 1 auto.
+
+      </p>
+      <button class="flex-btn">Button</button>
+
+    </div>
+  </li>
+  <li class="flex-cards-item">
+    <div class="flex-card">
+
+      <h2 class="flex-card-title">card</h2>
+      <p class="flex-card-text">
+        This is the shorthand for flex-grow, flex-shrink and flex-basis combined. The second and third parameters
+        (flex-shrink and flex-basis) are optional. Default is 0 1 auto and this goes on to have more background-color:
+        gray; background-color: gray; background-color: gray; background-c
+      </p>
+      <button class="flex-btn">Button</button>
+
+    </div>
+  </li>
+  <li class="flex-cards-item">
+    <div class="flex-card">
+
+      <h2 class="flex-card-title">card</h2>
+      <p class="flex-card-text">
+        This is the shorthand for flex-grow, flex-shrink and flex-basis combined. The second and third parameters
+        (flex-shrink and flex-basis) are optional. Default is 0 1 auto.
+      </p>
+
+      <button class="flex-btn">Button</button>
+
+    </div>
+  </li>
+</ul>
