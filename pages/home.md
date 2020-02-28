@@ -44,7 +44,7 @@ ___
     </div>
 </div>
 
-<!-- <ul class="flex-cards">
+<ul class="flex-cards">
   <li class="flex-cards-item">
     <div class="flex-card">
 
@@ -84,4 +84,4 @@ ___
 
     </div>
   </li>
-</ul> -->
+</ul>
