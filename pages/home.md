@@ -7,7 +7,8 @@ keywords: >-
 layout: tla_home_flex
 feature: true
 feature-image: media/Religion Hero.png
-cta-cards: true
+cta: true
+feeds: true
 published: true
 ---
 ## Examine Jewish History, Culture and Practice in Philly
