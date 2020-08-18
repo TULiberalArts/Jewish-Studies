@@ -16,8 +16,6 @@ Our Jewish Studies program implements a broad and multidisciplinary liberal arts
 
 ### _This program is not presently accepting new students._
 
-<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/cUJsqTpx1lA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 ___
 
 ## Academic Offerings
