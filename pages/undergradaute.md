@@ -10,7 +10,6 @@ permalink: /undergraduate/
 layout: tla_page_test
 published: true
 # custom variables
-sidebar: sidebars/graduate.html
 graduate_students: profiles/graduate_students_2.html
 ---
 ## BA in Jewish Studies
