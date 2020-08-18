@@ -10,7 +10,7 @@ permalink: /undergraduate/
 layout: tla_page_test
 published: true
 # custom variables
-graduate_students: profiles/graduate_students_2.html
+sidebar: sidebars/undergraduate.html
 ---
 ## BA in Jewish Studies
 Our BA in Jewish Studies program emphasizes intellectual, analytical, communication and interpersonal skills - essential for success in any career. If you join us, you will explore contemporary issues of Jewish culture, identity and practice through the topics of immigration, gender, religious practice, artistic expression, politics and more. The major in Jewish Studies is offered through the [College of Liberal Arts](https://liberalarts.temple.edu/) and offers students a broad but rigorous education in the humanities and social sciences.
@@ -37,5 +37,3 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 
 ## Undergraduate Admissions
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
-
-{% include {{ page.graduate_students }} %}
