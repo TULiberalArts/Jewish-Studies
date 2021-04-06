@@ -36,6 +36,3 @@ Take charge of your future and limit your debt. The Fly in 4 partnership allows 
 
 ## Undergraduate Admissions
 Ready to apply? [Submit your application online.](http://admissions.temple.edu/apply)
-
-
-<iframe width="560" height="315" src="https://prezi.com/embed/amAeEVR1U7T68I0TLuwT/" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
