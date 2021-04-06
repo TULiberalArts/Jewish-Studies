@@ -22,6 +22,3 @@ ___
 - [Bachelor of Arts in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/ba-jewish-studies/)
 - [Minor in Jewish Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/jewish-studies/minor-jewish-studies/)
 - [Certificate in Jewish Secular Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-jewish-secular-studies/)
-
-
-<div align="center" class="video-container"><iframe width="560" height="315" src="https://prezi.com/view/amAeEVR1U7T68I0TLuwT/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
